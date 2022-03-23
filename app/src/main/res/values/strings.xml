@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Upload</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Create Profile</string>
+    <string name="second_fragment_label">Profile</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="Profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="create_file">Create Profile</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name ="Jordan_hekili_freitas">Jordan Hekili Freitas</string>
+    <string name ="Jordan_email">Jordan@gmail.com</string>
+    <string name ="Jordan_phone">509-399-5454</string>
+    <string name="Jordan">Pullman WA</string>
+    <string name="phone_number">Phone number</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
